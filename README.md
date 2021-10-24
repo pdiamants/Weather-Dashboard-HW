@@ -6,10 +6,6 @@ Creating a weather forecast for homework
 
 - Creating something easy to use and being able to assist with weather information being easily attained.
 - Solved being able to know the weather for multiple days and knowing what weather is in each city.
-- 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
