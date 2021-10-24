@@ -13,3 +13,5 @@ Creating a weather forecast for homework
 
 
 ## Credits
+- Dylan Mansor
+- Nick Golsted
